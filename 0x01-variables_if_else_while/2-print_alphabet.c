@@ -11,6 +11,7 @@
 int main(void)
 {
 char r;
+
 for (r = 'a'; r <= '2'; r++)
 putchar(r);
 putchar('\n');
