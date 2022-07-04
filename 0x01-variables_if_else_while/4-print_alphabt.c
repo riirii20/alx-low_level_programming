@@ -10,17 +10,17 @@
 
 int main(void)
 {
-	char r, e, f;
+	char r, e, q;
 
 	e = 'e';
-	f = 'f';
+	q = 'q';
 
 	for (r = 'a'; r <= 'z'; r++)
 	{
-		if (r != e && r != f)
+		if (r != e && r != q)
 			putchar(r);
 	}
 	putchar('\n');
 
-	return (0);
+	return (0)
 }
