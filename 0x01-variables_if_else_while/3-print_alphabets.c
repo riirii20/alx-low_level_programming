@@ -12,7 +12,7 @@ int main(void)
 char r;
 
 for (r = 'a'; r <= 'z'; r++)
-puthcar(r);
+putchar(r);
 for (r = 'A'; r <= 'Z'; r++)
 putchar(r);
 puthcar('\n');
