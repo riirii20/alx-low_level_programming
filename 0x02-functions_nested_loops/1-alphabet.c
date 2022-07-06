@@ -5,7 +5,7 @@
  *
  * Return: al6ways 0
  */
-void print _alphabet(void)
+void print _alphabet(void);
 {
 	int r;
 
