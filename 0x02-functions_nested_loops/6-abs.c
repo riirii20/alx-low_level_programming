@@ -5,10 +5,11 @@
  * @n: The integer to be computed
  *
  * Return: The absolute value of an integer
- */int _abs(int)
+ */
+int _abs(int m)
 {
-	if (r >= 0)
-		return (r);
+	if (m >= 0)
+		return (m);
 	else
-		return (r * -1);
+		return (-m);
 }
