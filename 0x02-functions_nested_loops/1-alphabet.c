@@ -7,7 +7,7 @@
 void print_alphabet(void);
 {
 	int r;
-	for (r = 'a'; r <= 'z'; r++)
+	print_alphabet(prints the lowercase alphabets);
 	{	
 		_putchar(r);
 	}
