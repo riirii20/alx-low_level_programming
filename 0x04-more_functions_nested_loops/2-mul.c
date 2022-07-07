@@ -3,10 +3,10 @@
 /**
  * mul - a function that multiplies two integers
  * @a: first input
- * @b: second input
- *Return: success
- /
- int mul(int a, int b)
- {
-         return (a * b);
- }
+ * @b: second inpt
+ * Return: multiplication result of 2 integers
+ */
+int mul(int a, int b)
+{
+	return (a * b);
+}
