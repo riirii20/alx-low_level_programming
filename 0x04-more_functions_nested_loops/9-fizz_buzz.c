@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * fizz_buzz - printing to 100
+ * main - entry point
  * Return: always 0
  */
 int main(void)
