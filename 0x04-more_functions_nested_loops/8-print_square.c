@@ -3,6 +3,7 @@
 /**
  * print_square - a function that prints a square
  * @size: an input integer
+ * Return: square made of #
  */
 void print_square(int size)
 {
