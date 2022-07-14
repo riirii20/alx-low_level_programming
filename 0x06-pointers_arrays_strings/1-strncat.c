@@ -6,7 +6,7 @@
  * @dest: an input strings
  * @src: an input string
  * @n: an input integer
- * Result: a pointer to the resulting string
+ * Return: a pointer to the resulting string
  */
 char *_strncat(char *dest, char *src, int n)
 {
