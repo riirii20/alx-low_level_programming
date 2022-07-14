@@ -6,14 +6,14 @@
  * @src: an input string
  * Return: a string
  */
-char *_strcat(char *dest, char *stc)
+char *_strcat(char *dest, char *src)
 {
 	char *temp = dest;
 
 	while (*dest)
 		dest++;
 
-	while(*src)
+	while (*src)
 		*dest++ = *src++;
 
 	*dest = '\0';
