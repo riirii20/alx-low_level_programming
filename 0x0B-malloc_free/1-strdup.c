@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 /**
- *
  * _strdup - A function that returns a pointer to a newly allocad
  * @str: An input pointer of the string to copy.
  * Return: Apointer to new string or NULL if it str is NULL
